@@ -64,5 +64,11 @@ rogerio.oliveira@mackenzie.br
 
 **4** [**Algoritmos Genéticos**](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/GeneticAlgorithms.ipynb)
 
+**5** [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
+
+> * [Classificação (Regressão Logística)](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
+> * [Classificação: Knn](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
+> * [Árvores de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
+
 
 
