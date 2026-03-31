@@ -52,7 +52,7 @@ rogerio.oliveira@mackenzie.br
 
 > * [MS AI For Beginners](https://github.com/microsoft/AI-For-Beginners) | [Introduction and History of AI](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/1-Intro/README.md)
 
-> * **EAD** Leitura da seção [Aprendizado de Máquina: Um Novo Paradigma](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb).
+> * Leitura da seção [Aprendizado de Máquina: Um Novo Paradigma](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb).
 
 > *Introdução à IA; Definição de IA; Teste de Turing, Quarto Chinês de Searle; IA Forte x IA Fraca; Abordagens Top Down e Bottom Up; Técnicas de IA (Classificação por Abordagem Técnica): IA Clássica x Aprendizado de Máquina x Deep Learning;* 
 
@@ -60,15 +60,26 @@ rogerio.oliveira@mackenzie.br
 
 > * [MS AI For Beginners](https://github.com/microsoft/AI-For-Beginners) | [Knowledge Representation and Expert Systems](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/README.md)
 
+> *Sistemas Especialistas; Regras de Produção; Aplicações; Inferência direta (para frente) e reversa;*
+
 **3** [**Algoritmos de Busca, Search Algorithms**](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/Search_Algorithms.ipynb)
 
+> *Algoritmos de Busca; DFS, BFS; Busca Informada e Heurísticas; Busca Gulosa, Dijkstra e A-Star; Aplicações*
+
 **4** [**Algoritmos Genéticos**](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/GeneticAlgorithms.ipynb)
+
+> *Algoritmos genéticos; Fluxo dos algoritmos genéticos; representação das soluções por genes; funções de aptidão e seleção; crossover; mutação; tipos de problemas e aplicações*
 
 **5** [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 > * [Classificação (Regressão Logística)](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb)
 > * [Classificação: Knn](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 > * [Árvores de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
+
+> * [**Resumo: Aprendizado Supervisionado: Regressão e Classificação**](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/Resumo_ML_supervisionado_scikit_learn.ipynb)
+
+> Aprendizado supervisionado; Tarefas de Classificação e Regressão; Uso de estimadores de scikit-learn; Regressão Linear; Correlação; Coeficiente de Determinação (R2); Acuracidade; Dilema Viés-Variância: sub e sobreajuste (overfitting); Conjuntos de Treinamento; Conjunto de Teste; Métricas de classificação: acuracidade, matriz de confusão, TP e TN
+
 
 
 
