@@ -15,7 +15,7 @@ rogerio.oliveira@mackenzie.br
 
 #### Datas Importantes
 
-* **08.04** Avaliação A1 (11.04 data limite de notas)
+* **08.04** Avaliação A1 (11.04 data limite de notas) | [Notas e feedbacks](https://github.com/Rogerio-mack/IA_2026S1/raw/refs/heads/main/Notas_N1.xlsx)
 * **20.05** Apresentação dos Projetos
 * **27.05** Avaliação A2 (03.06 data limite de notas)
 * **03.06** PSUB
