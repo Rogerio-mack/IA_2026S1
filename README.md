@@ -29,11 +29,11 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 1. **Requisitos mínimos**. Ter como ponto de partida o artigo *Simulating Public Opinion: Comparing Distributional and Individual-Level Predictions from LLMs and Random Forests*, disponível na [pasta](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing). Avaliar acuracidade, distribuições das respostas e explicabilidade (importância relativa das variáveis preditoras). Simular ao menos 200 respondentes (10% dos dados) com repetições (3-5, cv). Incluir o maior número possível de características e respostas (sugestão: começe com um pequeno número respondentes, características e aumente gradualmente).     
 3. **Ferramentas**. Empregue somente modelos e recursos abertos, sendo 100% executável e aberto (não empregue API Keys privadas). Preferencialmente, executar 100% em um notebook Colab. 
 4. **GitHub**. Implementar um GitHub com o projeto.
-5. **Entrega**. No formato de um artigo SBC, preferencialmente em Latex. Apresentação no YouTube (máximo 6min) com o link a ser incluído no GitHub. Entrega e apresentação do projeto no final do curso, com data a definir (eventualmente só a entrega, incluindo vídeo de apresentação). 
+5. **Entrega**. O texto do trabalho pode estar em formato de um artigo SBC, preferencialmente em Latex e/ou alternativamente em um notebook Colab e/ou markdown no GitHUb. Apresentação no YouTube (máximo 6min) com o link a ser incluído no GitHub. Entrega e apresentação do projeto no final do curso, com data a definir (eventualmente só a entrega, incluindo vídeo de apresentação). 
 6. **Rubrica**. Modelo LLM, 3 pontos (quantidade de atributos e respostas, qualidade dos prompts e aderência das respostas); Análise e Comparação dos resultados, 3.5 pontos (métricas empregadas, repetições e/ou bootstrapping, gráficos comparativos, técnicas de explicabilidade); Artigo e Aspecto Geral do Trabalho, 3 pontos (Apresentação, fundamentação, justificativas, referências, apresentação dos resultados).
 7. Extra: Esse projeto pode ser estendido adicionando-se a comparação com a simulação de respostas a partir de um modelo de aprendizado supervisionado. 
 
-#### Sugestão de Roteiro de Apresentação (máx 6min)
+#### Sugestão do TEXTO e ROTEIRO DE APRESENTAÇÃO (máx 6min)
 
 | Slide | Conteúdo |
 |-|-|
@@ -44,7 +44,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 | 5 | Métricas e resultados do modelo LLM |
 | 6 | Conclusão |
 
-* [Templates SBC para o artigo do Projeto](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) 
+* [Templates SBC para o artigo do Projeto](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) (opcional)
 
 * Exemplos de Projetos no GitHub: [Trabalho1](https://github.com/matteovar/Deteccao_de_image) | [Trabalho2](https://github.com/LeticiaMoraesG/Projeto_gatos/tree/main) | [Trabalho3](https://github.com/erikhsu08/projetoIA/tree/main)
 
