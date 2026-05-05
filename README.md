@@ -113,5 +113,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 **8** [**Deep Learning Frameworks**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T3.ipynb) | [**Keras Sequential Model**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T4.ipynb) 
 
+> * [scikit-learn](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/mlp_penguins_solucao.ipynb)
+> * [TensorFlow: Penguins Example](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/TensorFlow_Penguins_Example.ipynb)
 
 
