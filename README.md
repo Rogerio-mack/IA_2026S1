@@ -115,5 +115,17 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 
 > * [scikit-learn: Penguins Example](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/mlp_penguins_solucao.ipynb)
 > * [TensorFlow: Penguins Example](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/TensorFlow_Penguins_Example.ipynb)
+> * [Exercício: Classificação de Imagens com Keras/TensorFlow Sequential (Tarefa no Canvas)](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/AI_2026S1_Exercicio_Keras.ipynb)
 
+> *Frameworks de deep learning: tensores, gradiente automático, gpu e grafo de solução; Entropia Cruzada; Modelo Sequencial Keras/TensorFlow; Codificação Keras/TensorFlow x scikit-learn; Preparação dos dados; Hot-encode; batch size.*
+
+> Leitura [Aprendizado por Transferência](https://www.tensorflow.org/tutorials/images/transfer_learning?hl=pt-br). Depois de fazer o [Exercício: Classificação de Imagens com Keras/TensorFlow Sequential (Tarefa no Canvas)](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/AI_2026S1_Exercicio_Keras.ipynb) leia e entenda o que é o *ajuste fino* de um modelo pré-treinado. O exemplo desse texto é com o TensorFlow e a classificação de imagens, mas o conceito de ajuste fino se aplica igualmente para classificação de dados tabulares e até mesmo para texto (como no caso dos LLMs). *O que é o ajuste fino de um modelo? O que é um modelo pré-treinado? O que faz o `base_model.trainable = False` na construção do seu modelo? Quais as vantagens de empregar um modelo pré-treinado para o ajuste fino?*
+
+### **Principais ontos para a prova N2**
+
+>> 1. **Bimestre anterior**: Dilema Viés-Variância: sub e sobreajuste (overfitting); Conjuntos de Treinamento; Conjunto de Teste; Métricas de classificação: acuracidade, matriz de confusão, TP e TN; Seleção de técnicas de IA para solução de um problema.
+>> 2. **Redes Neurais**: História; Neurônio perceptron; Funções de Ativação; XOR problem; Aprendizado e Algoritmo de Retropropagação; Parâmetros e Hiperparâmetros; Conjunto de Teste e de Validação; Redes MLP; MLPClassifier; Curva de Aprendizado.
+>> 3. **Deep Learning**: Frameworks de deep learning: tensores, gradiente automático, gpu e grafo de solução; Entropia Cruzada; Modelo Sequencial Keras/TensorFlow; Codificação Keras/TensorFlow x scikit-learn; Preparação dos dados; Hot-encode; batch size;
+>> 4. **Tarefas/Exercícios:**: Ajuste fino de um modelo pré-treinado (Leitura [Aprendizado por Transferência](https://www.tensorflow.org/tutorials/images/transfer_learning?hl=pt-br)); [Exercício: Classificação de Imagens com Keras/TensorFlow Sequential (Tarefa no Canvas)](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/AI_2026S1_Exercicio_Keras.ipynb)
+>> 5. **NÃO HAVERÁ** CONTEÚDOS DA TAREFA Google DeepMind: AI Research Foundations e nem do PROJETO na PROVA.
 
