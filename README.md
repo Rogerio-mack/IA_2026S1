@@ -16,8 +16,8 @@ rogerio.oliveira@mackenzie.br
 #### Datas Importantes
 
 * **08.04** Avaliação A1 (11.04 data limite de notas) | [Notas e feedbacks](https://github.com/Rogerio-mack/IA_2026S1/raw/refs/heads/main/Notas_N1.xlsx) | Correções (*somente em sala*) [A1A](https://github.com/Rogerio-mack/work_private/blob/main/N1A.pdf) | [A1B](https://github.com/Rogerio-mack/work_private/blob/main/N1D.pdf)
-* **20.05** Apresentação dos Projetos
-* **27.05** Avaliação A2 (03.06 data limite de notas)
+ 
+* **27.05** Avaliação A2 (03.06 data limite de notas) [**GABARITO N2 AQUI**](https://github.com/Rogerio-mack/IA_2026S1/blob/main/N2_gabarito1.pdf)
 * **03.06** PSUB
 * **10.062** PF
 
@@ -128,4 +128,6 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 >> 3. **Deep Learning**: Frameworks de deep learning: tensores, gradiente automático, gpu e grafo de solução; Entropia Cruzada; Modelo Sequencial Keras/TensorFlow; Codificação Keras/TensorFlow x scikit-learn; Preparação dos dados; Hot-encode; batch size;
 >> 4. **Tarefas/Exercícios:**: Ajuste fino de um modelo pré-treinado (Leitura [Aprendizado por Transferência](https://www.tensorflow.org/tutorials/images/transfer_learning?hl=pt-br)); [Exercício: Classificação de Imagens com Keras/TensorFlow Sequential (Tarefa no Canvas)](https://colab.research.google.com/github/Rogerio-mack/IA_2026S1/blob/main/AI_2026S1_Exercicio_Keras.ipynb)
 >> 5. **NÃO HAVERÁ** CONTEÚDOS DA TAREFA Google DeepMind: AI Research Foundations e nem do PROJETO na PROVA.
+
+
 
