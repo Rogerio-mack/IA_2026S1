@@ -30,7 +30,7 @@ Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (
 3. **Ferramentas**. Empregue somente modelos e recursos abertos, sendo 100% executável e aberto (não empregue API Keys privadas). Preferencialmente, executar 100% em um notebook Colab. 
 4. **GitHub**. Implementar um GitHub com o projeto.
 5. **Entrega**. O texto do trabalho pode estar em formato de um artigo SBC, preferencialmente em Latex e/ou alternativamente em um notebook Colab e/ou markdown no GitHUb. Apresentação no YouTube (máximo 6min) com o link a ser incluído no GitHub. Entrega e apresentação do projeto no final do curso, com data a definir (eventualmente só a entrega, incluindo vídeo de apresentação). 
-6. **Rubrica**. Modelo LLM, 3 pontos (quantidade de atributos e respostas, qualidade dos prompts e aderência das respostas); Análise e Comparação dos resultados, 3.5 pontos (métricas empregadas, repetições e/ou bootstrapping, gráficos comparativos, técnicas de explicabilidade); Artigo e Aspecto Geral do Trabalho, 3 pontos (Apresentação, fundamentação, justificativas, referências, apresentação dos resultados).
+6. **Rubrica**. Modelo LLM, 3 pontos (quantidade de atributos e respostas, qualidade dos prompts e aderência das respostas); Análise e Comparação dos resultados, 3.5 pontos (métricas empregadas, repetições e/ou bootstrapping, gráficos comparativos, técnicas de explicabilidade); Artigo e Aspecto Geral do Trabalho, 3.5 pontos (Apresentação, fundamentação, justificativas, referências, apresentação dos resultados).
 7. Extra: Esse projeto pode ser estendido adicionando-se a comparação com a simulação de respostas a partir de um modelo de aprendizado supervisionado. 
 
 #### Sugestão do TEXTO e ROTEIRO DE APRESENTAÇÃO (máx 6min)
