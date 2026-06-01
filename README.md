@@ -23,11 +23,13 @@ rogerio.oliveira@mackenzie.br
 
 #### **Projeto: Simulação de Opinião Pública com LLMs**
 
->> ##### Veja aqui os Melhores Projetos
+>> ##### Veja aqui os Melhores Projetos entregues,
 
 >> * https://github.com/Akuro02/Projeto-IA--Simulacao-de-Opiniao-Publica/tree/main (10,0)
 >> * https://github.com/lari-sato/projeto-ia (9,0)
 >> * https://github.com/brunoolf/Projeto-IA (10,0)
+
+<br>
 
 Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (Centro de Estudos de Opinião Pública) desenvolver um modelo LLM para simulação das respostas dos questionários e comparar com os resultados da pesquisa. [Escolha aqui a pesquisa de opinião](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing) (caso deseje empregar outra pesquisa, do [Cesop](https://www.cesop.unicamp.br/) ou outra, consulte o professor). 
 
