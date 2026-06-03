@@ -17,11 +17,19 @@ rogerio.oliveira@mackenzie.br
 
 * **08.04** Avaliação A1 (11.04 data limite de notas) | [Notas e feedbacks](https://github.com/Rogerio-mack/IA_2026S1/raw/refs/heads/main/Notas_N1.xlsx) | Correções (*somente em sala*) [A1A](https://github.com/Rogerio-mack/work_private/blob/main/N1A.pdf) | [A1B](https://github.com/Rogerio-mack/work_private/blob/main/N1D.pdf)
  
-* **27.05** Avaliação A2 (03.06 data limite de notas) [**GABARITO N2 AQUI**](https://github.com/Rogerio-mack/IA_2026S1/blob/main/N2_gabarito1.pdf)
-* [**Consulte aqui NOTAS, FEEDBACK DAS ATIVIDADES E ALUNOS ELEGÍVEIS PARA SUB E PF**](https://github.com/Rogerio-mack/IA_2026S1/raw/refs/heads/main/Notas_N1_e_N2.xlsx), veja abaixo, também, os melhores projetos.
+* **27.05** Avaliação A2 (03.06 data limite de notas)
+
+>> [Gabarito N2](https://github.com/Rogerio-mack/IA_2026S1/blob/main/N2_gabarito1.pdf) | [Consulte aqui NOTAS, FEEDBACK DAS ATIVIDADES](https://github.com/Rogerio-mack/IA_2026S1/raw/refs/heads/main/Notas_N1_e_N2.xlsx), veja abaixo, também, os melhores projetos.
+
+<br>
+
 * **03.06** PSUB
-> Conteúdo para SUB: conteúdos da N1 + N2
-* **10.062** PF
+
+>> [**Gabarito SUB**](https://github.com/Rogerio-mack/IA_2026S1/blob/main/SUB_gabarito.pdf) | [Consulte aqui NOTAS da SUB](https://github.com/Rogerio-mack/IA_2026S1/raw/refs/heads/main/Notas_N1_e_N2.xlsx), elas estarão no sistema de notas a partir de 08/06 (*abertura do sistema para SUB*). 
+
+<br>
+
+* **10.06** PF
 > Conteúdo para PF: conteúdos da N1 + N2
 
 #### **Projeto: Simulação de Opinião Pública com LLMs**
