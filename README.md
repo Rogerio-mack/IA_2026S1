@@ -30,7 +30,9 @@ rogerio.oliveira@mackenzie.br
 <br>
 
 * **10.06** PF
-> Conteúdo para PF: conteúdos da N1 + N2
+
+>> [**Gabarito PF**](https://github.com/Rogerio-mack/IA_2026S1/blob/main/PF_gabarito.pdf) | [Consulte aqui NOTAS da PF](https://github.com/Rogerio-mack/IA_2026S1/blob/main/notassub.txt), elas estarão no sistema de notas a partir de 15/06 (*abertura do sistema para PF*). 
+
 
 #### **Projeto: Simulação de Opinião Pública com LLMs**
 
